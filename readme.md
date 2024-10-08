@@ -1,4 +1,8 @@
-# IPEDS 
+# IPEDS (deprecated)
+
+This project is deprecated and will be deleted in June 2027. Please plan to fork, download, copy accordingly.
+
+(Projects inactive for ten years or more will be deleted from my account.)
 
 Some files relating to an extract of data from IPEDS
 
